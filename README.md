@@ -1,6 +1,13 @@
 # Site constructor on vanilla JS
 
 /learning/
+<br>
+<br>
+vanilla JS<br>
+[Parcel](https://parceljs.org/)
+<br>
+<br>
+<br>
 
 Based on tutorial of Vladilen Minin
 <br>
@@ -8,5 +15,5 @@ Based on tutorial of Vladilen Minin
 
 <br>
 <br>
-<br>
+
 Картинка [kirillslov ](https://pixabay.com/ru/users/kirillslov-8058952/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5773481) с сайта [Pixabay](https://pixabay.com/ru/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5773481)
